@@ -1,6 +1,6 @@
 #Using Machine Learning Models for Predicting Energy Billing Amounts Using Consumer Data
 
-**Columms and their description:**
+**Columns and their description in the dataset:**
 
 1. **customer_id**: Unique identifier for each customer.
 2. **region**: Geographic region of the customer.
@@ -24,6 +24,7 @@
 2. **Model Training and Evaluation:** Describes the process of training each model and evaluating their performance using the test data.
 3. **Results and Analysis:** Presents the evaluation metrics for each model and identifies the best and worst performing models.
 4. **Conclusion:** Summarizes the findings and provides recommendations based on the analysis.
+
 
 
 
