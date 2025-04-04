@@ -26,16 +26,20 @@
 4. **Conclusion:** Summarizes the findings and provides recommendations based on the analysis.
 
 
-**Data Preparation:**
+
+**Data Preparation:
+**
 The dataset is loaded using pd.read_csv.
 The features (X) and target (y) are defined.
 The dataset is split into training and testing sets using train_test_split.
 
-**Model training:**
+**Model training:
+**
 Three different models are trained:
 1. Linear Regression
 2. Random Forest Regressor
 3. Decision Tree Regressor
 
-**Best and Worst Models:**
+**Best and Worst Models:
+**
 The best and worst models are determined based on the R-squared value. The model with the highest R-squared value is considered the best, and the model with the lowest R-squared value is considered the worst.
